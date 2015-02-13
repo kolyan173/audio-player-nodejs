@@ -4,13 +4,14 @@
   "description": "part of translate partials",
   "main": "player.js",
   "dependencies": {
-    "lame": "^1.1.2",
-    "speaker": "^0.2.2",
-    "request": "^2.53.0",
-    "lodash": "^3.2.0",
     "combined-stream": "0.0.7",
+    "lame": "^1.1.2",
+    "lodash": "^3.2.0",
+    "needle": "^0.7.11",
     "promise": "^6.1.0",
-    "q": "^1.1.2"
+    "q": "^1.1.2",
+    "request": "^2.53.0",
+    "speaker": "^0.2.2"
   },
   "devDependencies": {},
   "scripts": {
